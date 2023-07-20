@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kauan-Gama
 - 👀 I’m interested in Eventually creating Game Mods
-- 🌱 I’m currently learning HTML, CSS AND JS
+- 🌱 I’m currently learning HTML, CSS, JS and Java
 - 📫 Currently at begineer level
 
 <!---
